@@ -1,0 +1,31 @@
+/*
+ *      Block Latest Comments for Prestashop
+ *      @package Block Latest Comments for Prestashop
+ *      @author José A. Cidre Bardelás
+ *      @copyright Copyright (C) 2011 José A. Cidre Bardelás. All rights reserved
+ *      @license GNU/GPL v3 or later
+ *      
+ *      Contact me at informatico@cidrebardelas.com
+ *      
+ *      This file is part of Block Latest Comments for Prestashop.
+ *      
+ *          Block Latest Comments for Prestashop is free software: you can redistribute it and/or modify
+ *          it under the terms of the GNU General Public License as published by
+ *          the Free Software Foundation, either version 3 of the License, or
+ *          (at your option) any later version.
+ *      
+ *          Block Latest Comments for Prestashop is distributed in the hope that it will be useful,
+ *          but WITHOUT ANY WARRANTY; without even the implied warranty of
+ *          MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ *          GNU General Public License for more details.
+ *      
+ *          You should have received a copy of the GNU General Public License
+ *          along with Block Latest Comments for Prestashop.  If not, see <http://www.gnu.org/licenses/>.
+ */
+
+#last-comments_block dd.first_item { padding-bottom: 3px; margin-bottom: 3px; border-bottom: 1px dotted #777; }
+#last-comments_block dd.item { padding-bottom: 3px; margin-bottom: 3px; border-bottom: 1px dotted #777; }
+#last-comments_block dd a { font-size:0.8em; font-weight:bold; }
+#last-comments_block dd p { font-size:0.8em; text-align: justify; margin: 3px 0; }
+#last-comments_block dd .customer { font-size:0.8em; font-weight:bold; font-style: italic; }
+ 
